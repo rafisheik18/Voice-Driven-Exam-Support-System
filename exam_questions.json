@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Who is considered the father of Artificial Intelligence?",
+    "options": ["Alan Turing", "John McCarthy", "Geoffrey Hinton", "Andrew Ng"],
+    "answer": "John McCarthy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a branch of Artificial Intelligence?",
+    "options": ["Machine Learning", "Database Management", "Operating Systems", "Networking"],
+    "answer": "Machine Learning"
+  },
+  {
+    "id": 3,
+    "question": "Which programming language is most widely used for AI research?",
+    "options": ["Python", "C", "Java", "Pascal"],
+    "answer": "Python"
+  },
+  {
+    "id": 4,
+    "question": "What does NLP stand for in Artificial Intelligence?",
+    "options": ["Natural Logic Processing", "Natural Language Processing", "Neural Language Prediction", "Normal Language Programming"],
+    "answer": "Natural Language Processing"
+  },
+  {
+    "id": 5,
+    "question": "Which learning type uses labeled data for training?",
+    "options": ["Unsupervised Learning", "Reinforcement Learning", "Supervised Learning", "Deep Learning"],
+    "answer": "Supervised Learning"
+  },
+  {
+    "id": 6,
+    "question": "Which neural network architecture is most suitable for image recognition?",
+    "options": ["RNN", "CNN", "GAN", "Q-Learning"],
+    "answer": "CNN"
+  },
+  {
+    "id": 7,
+    "question": "Which AI technique is inspired by the human brain?",
+    "options": ["Genetic Algorithms", "Neural Networks", "Decision Trees", "Expert Systems"],
+    "answer": "Neural Networks"
+  },
+  {
+    "id": 8,
+    "question": "Which of these is a common application of AI in daily life?",
+    "options": ["Spam Email Filtering", "MS Paint Drawing", "Calculator Operations", "Text File Editing"],
+    "answer": "Spam Email Filtering"
+  },
+  {
+    "id": 9,
+    "question": "What does the 'Turing Test' evaluate?",
+    "options": ["System Speed", "Machine Intelligence", "Hardware Efficiency", "Data Storage Capacity"],
+    "answer": "Machine Intelligence"
+  },
+  {
+    "id": 10,
+    "question": "Which of these companies developed AlphaGo, the AI that defeated human Go champions?",
+    "options": ["DeepMind", "OpenAI", "Google Brain", "IBM"],
+    "answer": "DeepMind"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is NOT a type of AI?",
+    "options": ["Narrow AI", "General AI", "Super AI", "Mechanical AI"],
+    "answer": "Mechanical AI"
+  },
+  {
+    "id": 12,
+    "question": "Which algorithm is commonly used in Reinforcement Learning?",
+    "options": ["Q-Learning", "Merge Sort", "Linear Regression", "PageRank"],
+    "answer": "Q-Learning"
+  },
+  {
+    "id": 13,
+    "question": "Which AI application powers self-driving cars?",
+    "options": ["Computer Vision", "Image Compression", "Web Scraping", "Database Querying"],
+    "answer": "Computer Vision"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is an AI chatbot?",
+    "options": ["Alexa", "MS Word", "Paint", "Photoshop"],
+    "answer": "Alexa"
+  },
+  {
+    "id": 15,
+    "question": "What does GAN stand for in AI?",
+    "options": ["General Adversarial Network", "Generative Adversarial Network", "Gradient Approximation Network", "Graphical Artificial Network"],
+    "answer": "Generative Adversarial Network"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is an unsupervised learning technique?",
+    "options": ["Clustering", "Classification", "Regression", "Reinforcement"],
+    "answer": "Clustering"
+  },
+  {
+    "id": 17,
+    "question": "Which AI system defeated world chess champion Garry Kasparov in 1997?",
+    "options": ["Deep Blue", "Watson", "AlphaZero", "BERT"],
+    "answer": "Deep Blue"
+  },
+  {
+    "id": 18,
+    "question": "Which company created the AI model GPT series?",
+    "options": ["OpenAI", "DeepMind", "IBM", "Meta"],
+    "answer": "OpenAI"
+  },
+  {
+    "id": 19,
+    "question": "Which type of AI focuses on mimicking human reasoning?",
+    "options": ["Cognitive Computing", "Image Recognition", "Signal Processing", "Data Mining"],
+    "answer": "Cognitive Computing"
+  },
+  {
+    "id": 20,
+    "question": "Which algorithm is commonly used for classification in Machine Learning?",
+    "options": ["Decision Tree", "Bubble Sort", "Quick Sort", "Hashing"],
+    "answer": "Decision Tree"
+  },
+  {
+    "id": 21,
+    "question": "Which of these is an ethical concern in AI?",
+    "options": ["Bias in Decision Making", "Battery Life", "Screen Resolution", "Color Printing"],
+    "answer": "Bias in Decision Making"
+  },
+  {
+    "id": 22,
+    "question": "Which AI technique is used in recommendation systems like Netflix?",
+    "options": ["Collaborative Filtering", "Clustering", "Image Segmentation", "Symbolic Logic"],
+    "answer": "Collaborative Filtering"
+  },
+  {
+    "id": 23,
+    "question": "Which AI application defeated Jeopardy champions in 2011?",
+    "options": ["Watson", "AlphaGo", "Siri", "BERT"],
+    "answer": "Watson"
+  },
+  {
+    "id": 24,
+    "question": "Which AI concept refers to machines that can perform any intellectual task like humans?",
+    "options": ["General AI", "Narrow AI", "Weak AI", "Limited AI"],
+    "answer": "General AI"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following best describes Explainable AI (XAI)?",
+    "options": ["AI systems that can explain their decisions", "AI systems that need no data", "AI systems that cannot be explained", "AI systems that only use numbers"],
+    "answer": "AI systems that can explain their decisions"
+  }
+]
